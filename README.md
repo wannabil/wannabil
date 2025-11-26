@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-my portfolio is [here](https://miraclemikhael.com)
+My name is Nabil and I am a Front End Developer.
+You can checkout my portfolio [here](https://miraclemikhael.com)
 <!--
 **wannabil/wannabil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
