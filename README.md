@@ -5,6 +5,6 @@ You can checkout my portfolio [here](https://miraclemikhael.com)
 
 Personal blog will be [here](https://wannabil.com/blog/)
 
-<p align="left">
+<p align="center">
   <img src="https://api.boot.dev/v1/users/public/745c6283-034b-432d-b903-1d4ee238130e/thumbnail" >
 </p>
